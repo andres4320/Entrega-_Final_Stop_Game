@@ -1,4 +1,5 @@
- "************* REGLAS DE JUEGO ***************
+Bienvenidos a Stop Game por Sergio Garzon & Julian Reyes
+"************* REGLAS DE JUEGO ***************
 
 El juego te proporciona 10 letras del abecedario de manera aleatoria
 
